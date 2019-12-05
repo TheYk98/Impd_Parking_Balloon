@@ -14,4 +14,4 @@ Here's What this project offers
  * ### Safer.
       With everything being automated,there is high risk of thefts, cyber crime. But,This project brings along with cutting edge image processing algorithms that recogonizes vechile number plates and other criminal activites. 
  * ### Security guards. No longer necessary :(
-      This the major disadvantage of this project as this might cost a man's job.
+      This is the major disadvantage of this project as this might cost a man's job.
