@@ -12,6 +12,6 @@ Here's What this project offers
 * ### Welcome The Automation
      Not only finding spaces, this project helps you to calculate the parking fee for individual vechicle. No say goodbye to your work force.
  * ### Safer.
-      With everything being automated,there is high risk of thefts, cyber crime. But,This project brings along with cutting edge image processing algorithms that recogonizes vechile number plates and other criminal activites. 
+      With everything being automated,there is high risk of thefts and cyber crimes. But,This project brings along with cutting edge image processing algorithms that recogonizes vechile number plates and other criminal activites . 
  * ### Security guards. No longer necessary :(
       This is the major disadvantage of this project as this might cost a man's job.
